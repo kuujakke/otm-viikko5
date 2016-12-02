@@ -23,8 +23,11 @@ Format: ![Alt Text](url)
 
 [Käyttöohje](dokumentointi/kaytto-ohje.md)
 
+[Määrittelydokumentti](dokumentointi/maarittelydokumentti.md)
+
 Lainaus:
 > Oispa kaljaa!
+> *- Sir Isaac Newton*
 
 Inline code:
 
