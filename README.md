@@ -30,3 +30,9 @@ Lainaus:
 Inline code:
 
 '<html>' tägi
+
+```javascript
+function heiMaailma() {
+	alert("Hei maailma!");
+}
+```
