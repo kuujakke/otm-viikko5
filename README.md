@@ -21,15 +21,14 @@ Järjestetty lista:
 ![Kuva](/images/kissa.png)
 Format: ![Alt Text](url)
 
-http://github.com/kuujakke - linkki!
-[GitHub profiili](http://github.com/kuujakke)
+[Käyttöohje](dokumentointi/kaytto-ohje.md)
 
 Lainaus:
 > Oispa kaljaa!
 
 Inline code:
 
-'<html>' tägi
+`<html>` tägi
 
 ```javascript
 function heiMaailma() {
