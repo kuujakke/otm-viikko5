@@ -18,9 +18,6 @@ Järjestetty lista:
   * Kolmas a
   * Kolmas b
 
-![Kuva](/images/kissa.png)
-Format: ![Alt Text](url)
-
 [Käyttöohje](dokumentointi/kaytto-ohje.md)
 
 [Määrittelydokumentti](dokumentointi/maarittelydokumentti.md)
